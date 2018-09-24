@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages (Test update)
+## Welcome to GitHub Pages (Test update Rev2)
 
 A test link [My Namecard](https://github.com/Paul58513/digital-namecard)
 
