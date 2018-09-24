@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages (Test update Rev2)
 
-A test link [My Namecard](https://github.com/Paul58513/digital-namecard)
+Test link [My Namecard](https://paul58513.github.io/digital-namecard/)
 
 You can use the [editor on GitHub](https://github.com/Paul58513/Reg_website1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
