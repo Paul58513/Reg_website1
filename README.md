@@ -2,6 +2,8 @@
 
 Test link [My Namecard](https://paul58513.github.io/digital-namecard/)
 
+[Another link](https://github.com/Paul58513/digital-namecard/blob/master/PH%20photo.jpg)
+
 You can use the [editor on GitHub](https://github.com/Paul58513/Reg_website1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
